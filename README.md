@@ -6,7 +6,7 @@
 
 - 🏅 My second project [DataLink](https://github.com/Strongato/DataLink)
 
-- 🌱 I’m currently learning **assembly languages and disassemblers**
+- 🌱 I’m currently learning **x86 assembly**
 
 - 📫 How to reach me **josip.milicic37@gmail.com**
 
