@@ -1,10 +1,8 @@
 <h1 align="center">Josip Miličić</h1>
 <!-- <h3 align="center">Dissecting Binary - Crafting Bytes</h3> -->
-<img align="right" alt="Hacking" width="300" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xwbmF1a21qcHhqcHk4MnNmY2J4NGpjdzd5anBnZzIzYTB2d2R2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUqv7zNVW2QaHqEgSg/giphy.webp">
+<img align="right" alt="Hacking" width="250" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xwbmF1a21qcHhqcHk4MnNmY2J4NGpjdzd5anBnZzIzYTB2d2R2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUqv7zNVW2QaHqEgSg/giphy.webp">
 
-- 🏆 My first project [DataLink](https://github.com/Strongato/DataLink)
-
-- 🏅 My second project [DataLink](https://github.com/Strongato/DataLink)
+- 🏆 My project [DataLink](https://github.com/Strongato/DataLink)
 
 - 🌱 I’m currently learning **x86 assembly**
 
